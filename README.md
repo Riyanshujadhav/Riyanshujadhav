@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on Ai Based Career Guidance System <br>
-🌱 I’m currently learning Spring and Spring Boot <br>💬 Ask me about<b
+🌱 I’m currently learning Spring and Spring Boot <br>
+
 
 
 ## 🌐 Socials:
