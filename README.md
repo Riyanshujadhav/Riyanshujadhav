@@ -1,7 +1,17 @@
-# 💫 About Me:
-🔭 I’m currently working on Ai Based Career Guidance System <br>
-🌱 I’m currently learning Spring and Spring Boot <br>
 
+# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Riyanshu Jadhav</h1>
+<h3 align="center">A passionate Java developer , Backend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=riyanshujadhav&label=Profile%20views&color=0e75b6&style=flat" alt="riyanshujadhav" /> </p>
+
+
+
+- 🔭 I’m currently working on **Ai Career Guidance System**
+
+- 🌱 I’m currently learning **Spring and Springboot**
+
+- 📫 How to reach me **riyanshujadhav864@gamil.com**
 
 
 ## 🌐 Socials:
